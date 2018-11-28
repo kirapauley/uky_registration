@@ -1,1 +1,104 @@
+.header-logos{
+  background-color: #233e94;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-kerning: auto;
+  font-size: 140px;
+}
 
+.nav{
+  align-content: center;
+  text-align: center;
+}
+
+.hero{
+
+}
+
+.info{
+
+}
+
+.social{
+  align-items: center;
+}
+
+.hero-image-container{
+  padding: 0px;
+}
+
+.center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+.container{
+  background-color: #233e94;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  align-items: flex-start;
+}
+
+.box{
+  border-style: double;
+  border-color: #233e94;
+}
+
+.header-behavior{
+  color: white;
+  font-size: 26px;
+}
+
+.special-one{
+  background-color: #233e94;
+}
+
+.background{
+  background-color: #233e94;
+}
+
+body{
+  padding-bottom: 50px;
+
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+p1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.4em;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+ul{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #666699;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #6b639a;
+  font-size: 3em;
+  margin-left: 100px;
+}
