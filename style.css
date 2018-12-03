@@ -102,3 +102,27 @@ h2{
   font-size: 3em;
   margin-left: 100px;
 }
+
+.class-times {
+  background-color: green;
+}
+
+.class-times2 {
+  background-color: orange;
+}
+
+.class-times3 {
+  background-color: red;
+}
+
+.class-times4 {
+  background-color: purple;
+}
+
+.class-times5 {
+  background-color: blue;
+}
+
+.table {
+  margin-top: 30px;
+}
